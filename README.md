@@ -10,7 +10,8 @@ This Excel-based dashboard helps analyze key sales metrics including total reven
 - Avg. Delivery Time: 5.53 hours
 
 ## 📸 Screenshot
-![Dashboard Preview] ![image](https://github.com/user-attachments/assets/34704dba-f59d-45fb-b57d-2a0e8ed69b2f)
+![Dashboard Preview] ![image] ![image](https://github.com/user-attachments/assets/8de3271a-fb0e-43ed-8067-cfcf586e8634)
+
 
 
 ## 🔧 Tools Used
